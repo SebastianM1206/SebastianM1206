@@ -1,4 +1,11 @@
-## Hi there 👋
+![Descripción del GIF](/hi.gif)
+
+<h1 align="center">Hola, soy Sebastián 👋</h1>
+
+<p align="center">
+  🚀 Construyendo soluciones de comunicación & integraciones CRM <br/>
+  ☎️ Webphone · Salesforce · Automatización · APIs
+</p>
 
 <!--
 **SebastianM1206/SebastianM1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
