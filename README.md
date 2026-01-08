@@ -1,6 +1,6 @@
 ![Descripción del GIF](/hi.gif)
 
-🚀 **Software Developer | Automation & Integration Engineer | Computer Engineering Student**
+🚀 ##Software Developer | Automation & Integration Engineer | Computer Engineering Student##
 
 I’m a **Computer Engineering student** based in **Cali, Colombia**, with professional experience building **automation, AI-driven solutions, and web applications** for real clients and companies.
 
